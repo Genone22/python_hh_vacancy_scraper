@@ -27,7 +27,7 @@ And of course Dillinger itself is open source with a [public repository][dill]
 
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/Genone22/Genone22.git
+git clone https://github.com/Genone22/python_hh_vacancy_scraper.git
 ```
 2. Modify the job_titles and regions lists to match your job search criteria. You can add or remove job titles and regions as needed.
 
