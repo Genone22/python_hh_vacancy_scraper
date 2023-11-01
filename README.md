@@ -1,4 +1,3 @@
-![alt text]([http://url/to/img.png](https://sun9-34.userapi.com/c638919/v638919329/5cec2/QKWkOlPn0sQ.jpg))
 ## HH Vacancy Scraper
 
 
