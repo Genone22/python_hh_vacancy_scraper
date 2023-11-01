@@ -1,5 +1,7 @@
+![alt text]([http://url/to/img.png](https://sun9-34.userapi.com/c638919/v638919329/5cec2/QKWkOlPn0sQ.jpg))
+## HH Vacancy Scraper
 
-## Vacancy Scraper
+
 
 Python script for scraping job vacancies from the HeadHunter job board (hh.ru) and automatically opening application pages for specific employers. It can be useful for job seekers who want to automate the process of applying for jobs.
 
